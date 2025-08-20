@@ -1,0 +1,19 @@
+-3 trips to A3 (lots of motion waste)
+-only 1 trip to C2 (remove diagonal route?)
+-A4 is very far away...can move to C1?
+-recycle also far...move to C3?
+-only A3 books need labels...well maybe others later on...keep in center
+
+Optimization Layout Options:
+
+1. NFIC (A3) → A2, FIC (A2) → A3, RCYC (B4) → C1
+2. NFIC (A3) → A2, FIC (A2) → A3, FANT (A4) → A3, FIC (A3) → A4
+
+Choose Option 1: reduce to 20 steps while Option 2 only reduces to 22 steps
+
+Even more effective optimization (batching 3/trip using Option 1 layout mod):
+*BookID combinations*
+-combine B1 & B8
+-combine B2, B5, & B7
+-combine B10, B3, & B4
+-combine B6 & B9
